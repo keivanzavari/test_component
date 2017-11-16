@@ -19,6 +19,6 @@ Unit testing for Orocos components using Google test
 
 - or cmake:
     - `mkdir buid && cd build`
-    - `cmake ..
+    - `cmake ..`
     - `make all`
     - `make run_tests` OR `make run_tests_test_component`
